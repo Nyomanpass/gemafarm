@@ -1,0 +1,305 @@
+{
+  "settings": {
+    "site_name": "Gema Farm",
+    "hero_title": "Fresh from Nature,\nGrown with Care.",
+    "hero_subtitle": "Dari sejuknya Baturiti, kami merawat kedekatan dengan alam melalui hasil kebun dan pengalaman belajar yang bermakna.",
+    "hero_image": "/images/farm.webp",
+    "address": "Baturiti, Tabanan, Bali",
+    "whatsapp": "",
+    "email": "",
+    "instagram": "",
+    "maps_url": "",
+    "sample_content": true,
+    "about_title": "Berakar di alam.\nBertumbuh bersama.",
+    "about_text": "Di dataran tinggi Baturiti, Bali, Gema Farm menjadi ruang untuk mengenal pertanian lebih dekat. Dari kebun hingga meja makan, setiap hasil panen memiliki cerita tentang alam dan orang-orang yang merawatnya.",
+    "seo_description": "Kenali Gema Farm di Baturiti, Bali. Jelajahi hasil kebun, cerita pertanian, dan pengalaman edukasi."
+  },
+  "categories": [
+    {
+      "id": "1",
+      "name": "Sayuran Daun",
+      "slug": "sayuran-daun",
+      "is_active": true
+    },
+    {
+      "id": "2",
+      "name": "Sayuran Buah",
+      "slug": "sayuran-buah",
+      "is_active": true
+    },
+    {
+      "id": "3",
+      "name": "Paket Panen",
+      "slug": "paket-panen",
+      "is_active": true
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Pakcoy Hijau",
+      "slug": "pakcoy-hijau",
+      "image": "/images/pakcoy.webp",
+      "alt": "Pakcoy Hijau",
+      "category_id": "1",
+      "description": "Batang renyah dan daun lembut. Pilihan untuk tumisan hangat dan aneka hidangan berkuah.",
+      "unit": "kg",
+      "availability_status": "available",
+      "is_featured": true,
+      "is_active": true,
+      "is_sample": true
+    },
+    {
+      "id": "2",
+      "name": "Selada Hijau",
+      "slug": "selada-hijau",
+      "image": "/images/lettuce.webp",
+      "alt": "Selada Hijau",
+      "category_id": "1",
+      "description": "Daun segar bertekstur lembut untuk salad, sandwich, dan kreasi dapur Anda.",
+      "unit": "kg",
+      "availability_status": "available",
+      "is_featured": true,
+      "is_active": true,
+      "is_sample": true
+    },
+    {
+      "id": "3",
+      "name": "Mentimun Segar",
+      "slug": "mentimun-segar",
+      "image": "/images/cucumber.webp",
+      "alt": "Mentimun Segar",
+      "category_id": "2",
+      "description": "Kesegaran sederhana yang melengkapi hidangan sehari-hari.",
+      "unit": "kg",
+      "availability_status": "available",
+      "is_featured": true,
+      "is_active": true,
+      "is_sample": true
+    },
+    {
+      "id": "4",
+      "name": "Paprika Merah",
+      "slug": "paprika-merah",
+      "image": "/images/pepper.webp",
+      "alt": "Paprika Merah",
+      "category_id": "2",
+      "description": "Warna cerah dan rasa khas untuk memberi sentuhan istimewa pada hidangan.",
+      "unit": "kg",
+      "availability_status": "seasonal",
+      "is_featured": true,
+      "is_active": true,
+      "is_sample": true
+    },
+    {
+      "id": "5",
+      "name": "Paket Hasil Kebun",
+      "slug": "paket-hasil-kebun",
+      "image": "/images/harvest.webp",
+      "alt": "Paket Hasil Kebun",
+      "category_id": "3",
+      "description": "Ragam hasil kebun dalam satu pilihan. Diskusikan komposisi sesuai kebutuhan Anda.",
+      "unit": "kg",
+      "availability_status": "available",
+      "is_featured": false,
+      "is_active": true,
+      "is_sample": true
+    }
+  ],
+  "programs": [
+    {
+      "id": "1",
+      "title": "Farm Discovery",
+      "slug": "farm-discovery",
+      "image": "/images/farm.webp",
+      "description": "Melangkah ke kebun, mengenal ragam tanaman, dan berbincang tentang perjalanan hasil panen.",
+      "activities": "Pengenalan area kebun\nMengenal ragam tanaman\nDiskusi dan tanya jawab bersama tim",
+      "duration": "Disesuaikan bersama tim",
+      "facilities": "Fasilitas dan kebutuhan khusus dikonfirmasi saat tindak lanjut.",
+      "is_active": true,
+      "is_sample": true
+    },
+    {
+      "id": "2",
+      "title": "Belajar dari Kebun",
+      "slug": "belajar-dari-kebun",
+      "image": "/images/experience.webp",
+      "description": "Ruang belajar untuk sekolah, universitas, dan komunitas yang ingin mendekat pada dunia pertanian.",
+      "activities": "Pengenalan area kebun\nMengenal ragam tanaman\nDiskusi dan tanya jawab bersama tim",
+      "duration": "Disesuaikan bersama tim",
+      "facilities": "Fasilitas dan kebutuhan khusus dikonfirmasi saat tindak lanjut.",
+      "is_active": true,
+      "is_sample": true
+    },
+    {
+      "id": "3",
+      "title": "Dari Kebun ke Meja",
+      "slug": "dari-kebun-ke-meja",
+      "image": "/images/farmer.webp",
+      "description": "Mengenal hasil kebun dan berdiskusi tentang kebutuhan bahan segar untuk dapur dan usaha.",
+      "activities": "Pengenalan area kebun\nMengenal ragam tanaman\nDiskusi dan tanya jawab bersama tim",
+      "duration": "Disesuaikan bersama tim",
+      "facilities": "Fasilitas dan kebutuhan khusus dikonfirmasi saat tindak lanjut.",
+      "is_active": true,
+      "is_sample": true
+    }
+  ],
+  "articles": [
+    {
+      "id": "1",
+      "title": "Mengenal kesegaran dari dekat",
+      "slug": "mengenal-kesegaran",
+      "image": "/images/harvest.webp",
+      "category": "Dari Kebun",
+      "excerpt": "Setiap bahan segar punya perjalanan. Mari mulai mengenalinya dari tempat ia tumbuh.",
+      "content": "Setiap bahan segar punya perjalanan. Mari mulai mengenalinya dari tempat ia tumbuh.\n\nMengenal pertanian dapat dimulai dengan pertanyaan sederhana: dari mana makanan kita berasal? Dengan melihat tanaman dan prosesnya secara langsung, kita dapat lebih menghargai hasil kebun.\n\nMemulai dari rasa ingin tahu\n\nBerjalan di antara tanaman memberi kesempatan untuk mengamati hal-hal kecil. Bentuk daun, tekstur tanah, dan perubahan cuaca menjadi bagian dari percakapan yang membawa kita lebih dekat dengan alam.\n\nRencanakan percakapan Anda\n\nCatat hal yang ingin dipelajari sebelum berkunjung. Diskusikan kebutuhan kelompok dengan pengelola agar kegiatan dapat disesuaikan.\n\nArtikel ini merupakan konten contoh untuk pratinjau website.",
+      "status": "published",
+      "is_sample": true,
+      "published_at": "2026-11-23",
+      "meta_title": "Mengenal kesegaran dari dekat",
+      "meta_description": "Setiap bahan segar punya perjalanan. Mari mulai mengenalinya dari tempat ia tumbuh."
+    },
+    {
+      "id": "2",
+      "title": "Kebun sebagai ruang belajar",
+      "slug": "kebun-ruang-belajar",
+      "image": "/images/experience.webp",
+      "category": "Edukasi",
+      "excerpt": "Pengalaman di luar kelas membuka percakapan baru tentang makanan dan alam.",
+      "content": "Pengalaman di luar kelas membuka percakapan baru tentang makanan dan alam.\n\nMengenal pertanian dapat dimulai dengan pertanyaan sederhana: dari mana makanan kita berasal? Dengan melihat tanaman dan prosesnya secara langsung, kita dapat lebih menghargai hasil kebun.\n\nMemulai dari rasa ingin tahu\n\nBerjalan di antara tanaman memberi kesempatan untuk mengamati hal-hal kecil. Bentuk daun, tekstur tanah, dan perubahan cuaca menjadi bagian dari percakapan yang membawa kita lebih dekat dengan alam.\n\nRencanakan percakapan Anda\n\nCatat hal yang ingin dipelajari sebelum berkunjung. Diskusikan kebutuhan kelompok dengan pengelola agar kegiatan dapat disesuaikan.\n\nArtikel ini merupakan konten contoh untuk pratinjau website.",
+      "status": "published",
+      "is_sample": true,
+      "published_at": "2026-11-20",
+      "meta_title": "Kebun sebagai ruang belajar",
+      "meta_description": "Pengalaman di luar kelas membuka percakapan baru tentang makanan dan alam."
+    },
+    {
+      "id": "3",
+      "title": "Lebih dekat dengan Baturiti",
+      "slug": "lebih-dekat-baturiti",
+      "image": "/images/farm.webp",
+      "category": "Cerita Alam",
+      "excerpt": "Sebuah pengantar untuk mengenal suasana pertanian di dataran tinggi Bali.",
+      "content": "Sebuah pengantar untuk mengenal suasana pertanian di dataran tinggi Bali.\n\nMengenal pertanian dapat dimulai dengan pertanyaan sederhana: dari mana makanan kita berasal? Dengan melihat tanaman dan prosesnya secara langsung, kita dapat lebih menghargai hasil kebun.\n\nMemulai dari rasa ingin tahu\n\nBerjalan di antara tanaman memberi kesempatan untuk mengamati hal-hal kecil. Bentuk daun, tekstur tanah, dan perubahan cuaca menjadi bagian dari percakapan yang membawa kita lebih dekat dengan alam.\n\nRencanakan percakapan Anda\n\nCatat hal yang ingin dipelajari sebelum berkunjung. Diskusikan kebutuhan kelompok dengan pengelola agar kegiatan dapat disesuaikan.\n\nArtikel ini merupakan konten contoh untuk pratinjau website.",
+      "status": "published",
+      "is_sample": true,
+      "published_at": "2026-11-17",
+      "meta_title": "Lebih dekat dengan Baturiti",
+      "meta_description": "Sebuah pengantar untuk mengenal suasana pertanian di dataran tinggi Bali."
+    }
+  ],
+  "gallery": [
+    {
+      "id": "1",
+      "title": "Ruang hijau Baturiti",
+      "image": "/images/farm.webp",
+      "alt": "Ruang hijau Baturiti",
+      "category": "Kebun",
+      "is_active": true,
+      "is_sample": true,
+      "sort_order": 0
+    },
+    {
+      "id": "2",
+      "title": "Mengenal hasil kebun",
+      "image": "/images/farmer.webp",
+      "alt": "Mengenal hasil kebun",
+      "category": "Aktivitas",
+      "is_active": true,
+      "is_sample": true,
+      "sort_order": 1
+    },
+    {
+      "id": "3",
+      "title": "Belajar bersama alam",
+      "image": "/images/experience.webp",
+      "alt": "Belajar bersama alam",
+      "category": "Edukasi",
+      "is_active": true,
+      "is_sample": true,
+      "sort_order": 2
+    },
+    {
+      "id": "4",
+      "title": "Segar dari kebun",
+      "image": "/images/harvest.webp",
+      "alt": "Segar dari kebun",
+      "category": "Hasil Panen",
+      "is_active": true,
+      "is_sample": true,
+      "sort_order": 3
+    },
+    {
+      "id": "5",
+      "title": "Daun dan kehidupan",
+      "image": "/images/pakcoy.webp",
+      "alt": "Daun dan kehidupan",
+      "category": "Hasil Panen",
+      "is_active": true,
+      "is_sample": true,
+      "sort_order": 4
+    },
+    {
+      "id": "6",
+      "title": "Cerita di balik panen",
+      "image": "/images/lettuce.webp",
+      "alt": "Cerita di balik panen",
+      "category": "Aktivitas",
+      "is_active": true,
+      "is_sample": true,
+      "sort_order": 5
+    },
+    {
+      "id": "7",
+      "title": "Warna dari alam",
+      "image": "/images/pepper.webp",
+      "alt": "Warna dari alam",
+      "category": "Hasil Panen",
+      "is_active": true,
+      "is_sample": true,
+      "sort_order": 6
+    },
+    {
+      "id": "8",
+      "title": "Kesegaran yang sederhana",
+      "image": "/images/cucumber.webp",
+      "alt": "Kesegaran yang sederhana",
+      "category": "Hasil Panen",
+      "is_active": true,
+      "is_sample": true,
+      "sort_order": 7
+    },
+    {
+      "id": "10",
+      "title": "Lobak merah segar",
+      "image": "/images/radish.webp",
+      "alt": "Sekumpulan lobak merah segar dengan daun hijau dan akar",
+      "category": "Hasil Panen",
+      "is_active": true,
+      "is_sample": true,
+      "sort_order": 8
+    },
+    {
+      "id": "11",
+      "title": "Ragam hasil panen",
+      "image": "/images/vegetable-harvest.webp",
+      "alt": "Wortel, selada, paprika merah, bit, dan sayuran lain dalam keranjang",
+      "category": "Hasil Panen",
+      "is_active": true,
+      "is_sample": true,
+      "sort_order": 9
+    },
+    {
+      "id": "12",
+      "title": "Cabai tumbuh di kebun",
+      "image": "/images/chili.webp",
+      "alt": "Cabai merah dan hijau tumbuh pada tanaman dengan penyangga bambu",
+      "category": "Kebun",
+      "is_active": true,
+      "is_sample": true,
+      "sort_order": 10
+    }
+  ],
+  "inquiries": [],
+  "visit_requests": []
+}
